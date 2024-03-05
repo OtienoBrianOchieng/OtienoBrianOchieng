@@ -1,4 +1,4 @@
-[![Master Banner](https://i.pinimg.com/474x/ff/e5/45/ffe545ef73ff6f8e69c1d58ed64b9157.jpg)
+[Master Banner](https://i.pinimg.com/474x/ff/e5/45/ffe545ef73ff6f8e69c1d58ed64b9157.jpg)
 
 <h1 align="center">Hi 👋, I'm Brian Ochieng</h1>
 <h3 align="center">A passionate fullstack developer</h3>
