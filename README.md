@@ -1,5 +1,3 @@
-[![Master Banner](https://i.pinimg.com/474x/ff/e5/45/ffe545ef73ff6f8e69c1d58ed64b9157.jpg)
-
 <h1 align="center">Hi 👋, I'm Brian Ochieng</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 <img  align = 'rcenter' alt = "Brian here!" width = 400 src = "https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
